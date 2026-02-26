@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Clearance Level</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<nav>
+    <a href="dashboard.html">Overview</a>
+    <a href="clearance.html">Clearance</a>
+    <a href="logs.html">Activity Logs</a>
+</nav>
+
+<div class="container">
+    <h1>CLEARANCE STATUS</h1>
+    <div class="card">
+        <p><strong>Level:</strong> 4</p>
+        <p><strong>Authorization:</strong> Black Tier Access</p>
+        <p><strong>Restrictions:</strong> Compartmentalized Files Only</p>
+    </div>
+</div>
+
+</body>
+</html>
