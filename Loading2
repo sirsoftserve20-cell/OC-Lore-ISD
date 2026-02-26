@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>ISD Agent File</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+    <nav>
+        <a href="dashboard.html">Overview</a>
+        <a href="clearance.html">Clearance</a>
+        <a href="logs.html">Activity Logs</a>
+    </nav>
+
+    <div class="container">
+        <h1>AGENT FILE</h1>
+        <div class="card">
+            <p><strong>Agent ID:</strong> ISD-047</p>
+            <p><strong>Name:</strong> [REDACTED]</p>
+            <p><strong>Status:</strong> Active</p>
+            <p><strong>Division:</strong> Internal Security</p>
+        </div>
+    </div>
+
+</body>
+</html>
