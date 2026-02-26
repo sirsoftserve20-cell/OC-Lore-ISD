@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>ISD Secure Access</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body class="loading-body">
+
+    <div class="loading-container">
+        <h1>INTERNAL SECURITY DEPARTMENT</h1>
+        <p>ACCESSING AGENT FILE...</p>
+        <div class="progress-bar">
+            <div class="progress"></div>
+        </div>
+    </div>
+
+    <script src="js/loader.js"></script>
+</body>
+</html>
