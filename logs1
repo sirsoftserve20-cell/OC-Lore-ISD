@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Activity Logs</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<nav>
+    <a href="dashboard.html">Overview</a>
+    <a href="clearance.html">Clearance</a>
+    <a href="logs.html">Activity Logs</a>
+</nav>
+
+<div class="container">
+    <h1>ACTIVITY LOGS</h1>
+    <div class="card">
+        <p>[03/12] Accessed Secure Archive</p>
+        <p>[03/14] Clearance Verified</p>
+        <p>[03/18] Investigation File Opened</p>
+    </div>
+</div>
+
+</body>
+</html>
